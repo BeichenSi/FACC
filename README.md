@@ -17,7 +17,7 @@ Automatic classifications are candidates for review. Dystrophin-positive fiber p
 
 ## Download and run
 
-The intended release is **v1.4.0**. See [GitHub Releases](https://github.com/BeichenSi/FACC/releases) for published downloads. Extract the complete Windows x64 package and run `FACC.exe`; keep its `_internal` folder alongside it. The desktop interface is in Chinese. Python is not required for the packaged application.
+The published release is **[v1.4.0](https://github.com/BeichenSi/FACC/releases/tag/v1.4.0)**. Download its Windows x64 package, extract all files, and run `FACC.exe`; keep its `_internal` folder alongside it. The desktop interface is in Chinese. Python is not required for the packaged application.
 
 ## Source and documentation
 

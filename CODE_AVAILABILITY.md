@@ -1,10 +1,10 @@
 # Code Availability
 
-## Manuscript text — publication draft
+## Manuscript text
 
 FACC (Fully automatic cell counting), version 1.4.0, was developed by qianghw for the analysis and manual review of fluorescence microscopy images. The Python source code, analysis documentation, tests, and synthetic demonstration images are provided in the GitHub repository at https://github.com/BeichenSi/FACC. The software supports spectrin-based muscle-fiber candidate counting and annotation, DAPI-based classification of fibers containing at least one internal nucleus, dystrophin-positive fiber classification, and fluorescence intensity measurements in fiber interiors and boundary bands. The Windows x64 application is distributed through the repository's release page. Analysis parameters and review decisions can be saved in `.facc` project files to support reproducibility. The biological images used during local validation are not included in the code repository. Questions about the software or permission to reuse or redistribute the code should be addressed to qianghw (qianghw@foxmail.com).
 
-**Publication check:** Confirm that the repository and v1.4.0 downloadable release are publicly accessible before using the paragraph above in a manuscript. No archival DOI has been assigned in this document. This release does not declare a project-specific open-source license; it should not be described as licensed open-source software unless a license is subsequently added by the author.
+The published v1.4.0 release is available at https://github.com/BeichenSi/FACC/releases/tag/v1.4.0 and is associated with commit `803bacab6c1c9095b50705e8dee4fa195f69971d`. No archival DOI has been assigned in this document. This release does not declare a project-specific open-source license; it should not be described as licensed open-source software unless a license is subsequently added by the author.
 
 ## 中文对照
 
